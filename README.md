@@ -64,8 +64,8 @@ In meeting the minimum viable product (MVP) specifications listed below, your pr
 
 Be prepared to demonstrate your understanding of this week's concepts by answering questions on the following topics. You might prepare by writing down your own answers before hand.
 
-1. What is the DOM?
-2. What is an event?
-3. What is an event listener?
-4. Why would we convert a NodeList into an Array?
-5. What is a component?
+1. What is the DOM?(It is a programming Api for Html )
+2. What is an event?(its when  the user or browser manipulates a page)
+3. What is an event listener?(a procedure in a compter program that waits for an event to occure)
+4. Why would we convert a NodeList into an Array? (beacuse nodelist is a collection of Dom nodes)
+5. What is a component?(reusable bits of code)
